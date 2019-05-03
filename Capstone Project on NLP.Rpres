@@ -28,9 +28,9 @@ Prediction model checks if highest-order (in this case, n=4) n-gram has been see
 
 App Demo
 ========================================================
-<div style="align:top"><img src="Capture.png" alt="algorithm flow" /></div>
+Click [Link](https://ck0077.shinyapps.io/PredictTextCapstone/) to App. 
 
-[Link](https://ck0077.shinyapps.io/PredictTextCapstone/) to App. 
+<div><img src="Capture.png" alt="algorithm flow" /></div>
 
 
 
